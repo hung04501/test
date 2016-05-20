@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"abc\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hung04501/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "hungnq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hung04501/test/issues"
+  },
+  "homepage": "https://github.com/hung04501/test#readme"
+}
